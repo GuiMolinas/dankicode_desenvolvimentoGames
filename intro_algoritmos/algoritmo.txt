@@ -1,0 +1,14 @@
+Abrir janela do programa;
+Apareça os botoes do programa;
+Crie evento de clique e quando clicar execute determinada acao;
+
+Se a vida do personagem for menor que 0, reinicie o jogo;
+===============================================================
+Iniciar jogo(abrir janela do jogo e posicionar o jogador)
+Jogador tem 10 de vida, 10 de municao
+10 inimigos no mapa
+Inimigos persigam o jogador e tentam colidir com o mesmo
+{
+	Colisao com jogador e inimigo (jogador perde 1 de vida)
+}
+Se o jogador ficar com 0 de vida, fim de jogo
